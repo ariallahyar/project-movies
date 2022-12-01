@@ -1,13 +1,16 @@
 # Project Movies
 
-Replace this readme with your own information about your project.
+The purpose of this project was to learn how to make multi-page React applications using React Router. 
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+The minimum requirements included: 
+- At least two pages, one showing a list of movies and one showing movie details
+- Following a design from an example
 
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Stretch goals reached:
+- Improved design for responsiveness 
+- Not Found page displayed for invalid routes
+- Dropdown to toggle between toplists
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://film-finder-2022.netlify.app/
